@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/ifduyue/python-xxhash/commit/54c863576b0ee517cfa3a276e0f6c15ea016bc27",
       "git:hexsha": "54c863576b0ee517cfa3a276e0f6c15ea016bc27",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-06T06:22:49.104306+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ifduyue/python-xxhash/commit/61f15fe9c8d276f69bec31a3a0ffe61a6c00f077",
