@@ -135,7 +135,9 @@
           "raw_name": "typing_extensions.py",
           "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/typing_extensions.py"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/4fad0dda0c54bd3f80769479fcb323731ebe6eef/chunk-001.nq.gz",
+      "dep": "dep/4fad0dda0c54bd3f80769479fcb323731ebe6eef.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
