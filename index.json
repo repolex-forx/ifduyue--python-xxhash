@@ -3,6 +3,11 @@
   "repo": "python-xxhash",
   "versions": [
     {
+      "commit": "4fad0dda0c54bd3f80769479fcb323731ebe6eef",
+      "tag": "v3.6.0",
+      "parsed_at": "2026-11-22T06:41:40.134780+00:00"
+    },
+    {
       "commit": "54c863576b0ee517cfa3a276e0f6c15ea016bc27",
       "tag": "",
       "parsed_at": "2026-11-06T06:22:49.298050+00:00"
